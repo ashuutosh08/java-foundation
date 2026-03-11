@@ -1,4 +1,25 @@
+### Java General ###
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
 ### IntelliJ IDEA ###
+.idea/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -28,3 +49,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/

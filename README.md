@@ -1,4 +1,4 @@
-# ☕ Java Foundation 
+# ☕ Java Foundation
 
 This repository documents my structured journey through Java programming.
 
