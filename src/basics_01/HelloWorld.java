@@ -1,6 +1,6 @@
 package basics_01;
 
-public class HelloWorld {
+class HelloWorld {
     public static void main(String [] args){
         System.out.print(" Hello World ");
 
