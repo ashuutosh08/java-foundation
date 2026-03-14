@@ -8,10 +8,10 @@ This repository documents my structured journey through Java programming.
 - [x] Java Architecture Setup (JDK, JRE, JVM) & Hello World
 - [x] Variables, Primitive Data Types & Literals
 - [x] Type Conversion & Type Casting
-- [ ] Operators (Arithmetic, Relational, Logical)
+- [x] Operators (Arithmetic, Relational, Logical)
 
 ### 🟡 Phase 2: Flow Control & Arrays
-- [ ] Conditional Statements (If-Else, Ternary, Switch)
+- [x] Conditional Statements (If-Else, Ternary, Switch)
 - [ ] Loops (While, Do-While, For, Nested Loops)
 - [ ] Arrays (1D, Multi-dimensional, Jagged, 3D)
 - [ ] Enhanced For-Loop (For-each)
