@@ -7,7 +7,7 @@ This repository documents my structured journey through Java programming.
 ### 🟢 Phase 1: Basics (Getting Started & Core Syntax)
 - [x] Java Architecture Setup (JDK, JRE, JVM) & Hello World
 - [x] Variables, Primitive Data Types & Literals
-- [ ] Type Conversion & Type Casting
+- [x] Type Conversion & Type Casting
 - [ ] Operators (Arithmetic, Relational, Logical)
 
 ### 🟡 Phase 2: Flow Control & Arrays
