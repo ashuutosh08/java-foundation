@@ -4,19 +4,17 @@ This repository documents my structured journey through Java programming.
 
 ## 📅 Learning Roadmap
 
-### 🟢 Phase 1: Basics (Getting Started & Core Syntax)
+### 1: Basics (Getting Started & Core Syntax)
 - [x] Java Architecture Setup (JDK, JRE, JVM) & Hello World
 - [x] Variables, Primitive Data Types & Literals
 - [x] Type Conversion & Type Casting
 - [x] Operators (Arithmetic, Relational, Logical)
 
-### 🟡 Phase 2: Flow Control & Arrays
+### 2: Flow Control & Arrays
 - [x] Conditional Statements (If-Else, Ternary, Switch)
-- [ ] Loops (While, Do-While, For, Nested Loops)
-- [ ] Arrays (1D, Multi-dimensional, Jagged, 3D)
-- [ ] Enhanced For-Loop (For-each)
+- [x] Loops (While, Do-While, For, Nested Loops)
 
-### 🟠 Phase 3: Core Object-Oriented Programming (OOP)
+### 3: Core Object-Oriented Programming (OOP)
 - [ ] Classes, Objects & JVM Memory layout (Stack vs Heap)
 - [ ] Methods & Method Overloading
 - [ ] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
@@ -25,7 +23,7 @@ This repository documents my structured journey through Java programming.
 - [ ] Constructors & `super` Method
 - [ ] Naming Conventions & Anonymous Objects
 
-### 🔵 Phase 4: Advanced OOP Concepts
+### 4: Advanced OOP Concepts
 - [ ] Inheritance (Single & Multi-level)
 - [ ] Method Overriding & Dynamic Method Dispatch (Polymorphism)
 - [ ] Packages & Access Modifiers (Public, Private, Protected, Default)
@@ -35,7 +33,7 @@ This repository documents my structured journey through Java programming.
 - [ ] Interfaces (Normal, SAM/Functional, Marker) & Annotations
 - [ ] Lambda Expressions
 
-### 🟣 Phase 5: Production-Ready Java & Collections
+### 5: Production-Ready Java & Collections
 - [ ] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
 - [ ] Taking User Input (Scanner & BufferedReader)
 - [ ] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
