@@ -10,13 +10,14 @@ This repository documents my structured journey through Java programming.
 - [x] Type Conversion & Type Casting
 - [x] Operators (Arithmetic, Relational, Logical)
 
-### 2: Flow Control & Arrays
+### 2: Flow Control
 - [x] Conditional Statements (If-Else, Ternary, Switch)
 - [x] Loops (While, Do-While, For, Nested Loops)
 
 ### 3: Core Object-Oriented Programming (OOP)
-- [ ] Classes, Objects & JVM Memory layout (Stack vs Heap)
-- [ ] Methods & Method Overloading
+- [x] Classes, Objects & JVM Memory layout (Stack vs Heap)
+- [x] Methods & Method Overloading
+- [x] Arrays(1D, multi-dimensional, Jagged, 3D)
 - [ ] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
 - [ ] Static Keyword (Variables, Methods, Blocks)
 - [ ] Encapsulation, Getters, Setters & `this` Keyword
