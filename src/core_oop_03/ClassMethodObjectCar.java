@@ -1,5 +1,7 @@
 package core_oop_03;
 
+
+
 // class (the blueprint)
 public class ClassMethodObjectCar {
 
@@ -15,7 +17,7 @@ public class ClassMethodObjectCar {
             System.out.println("It has " + engineCapacity + "cc engine "+ "and it is " + type );
 
         }
-        public static void main(String []args){
+        public static void main(String[]args){
 
 //            Object creation( building real thing from the class/ blueprint)
 

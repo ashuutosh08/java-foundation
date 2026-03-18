@@ -1,6 +1,4 @@
 package core_oop_03;
-
-
  class Calc {
     public int add(int n1, int n2){
         return n1+n2;
@@ -13,7 +11,7 @@ package core_oop_03;
     }
 }
 public class MethodOverloading {
-    public static void main(String []args){
+    public static void main(String[]args){
 
         Calc obj = new Calc();
         int output = obj.add(2,3);

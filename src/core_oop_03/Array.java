@@ -2,7 +2,7 @@ package core_oop_03;
 
 public class Array {
 
-    public static void main (String []args){
+    public static void main (String[]args){
 
 
         int num[] = new int[4];                  // creating array variable with size 4

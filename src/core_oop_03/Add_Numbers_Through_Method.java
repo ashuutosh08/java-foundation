@@ -10,7 +10,7 @@ class Calculator {                              //class created
 
 public class Add_Numbers_Through_Method {
 
-    public static void main(String []args){
+    public static void main(String[]args){
 
         Calculator obj = new Calculator();        // created instance
         int output = obj.add(6,7);

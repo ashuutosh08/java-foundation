@@ -11,7 +11,7 @@ class Cal{
 
 
 public class StackHeapConcept {
-    public static void main(String []args ){        //method 2
+    public static void main(String[]args ){        //method 2
 
         Cal obj = new Cal();
         Cal obj1 = new Cal();

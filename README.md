@@ -18,8 +18,8 @@ This repository documents my structured journey through Java programming.
 - [x] Classes, Objects & JVM Memory layout (Stack vs Heap)
 - [x] Methods & Method Overloading
 - [x] Arrays(1D, multi-dimensional, Jagged, 3D)
-- [ ] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
-- [ ] Static Keyword (Variables, Methods, Blocks)
+- [x] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
+- [x] Static Keyword (Variables, Methods, Blocks)
 - [ ] Encapsulation, Getters, Setters & `this` Keyword
 - [ ] Constructors & `super` Method
 - [ ] Naming Conventions & Anonymous Objects

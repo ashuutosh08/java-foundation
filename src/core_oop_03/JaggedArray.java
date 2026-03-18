@@ -1,7 +1,7 @@
 package core_oop_03;
 
 public class JaggedArray {
-    public static void main(String []args){
+    public static void main(String[]args){
 
 //   Jagged array -- when the size of arrays are not same inside array.
 
