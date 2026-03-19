@@ -20,7 +20,7 @@ This repository documents my structured journey through Java programming.
 - [x] Arrays(1D, multi-dimensional, Jagged, 3D)
 - [x] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
 - [x] Static Keyword (Variables, Methods, Blocks)
-- [ ] Encapsulation, Getters, Setters & `this` Keyword
+- [x] Encapsulation, Getters, Setters & `this` Keyword
 - [ ] Constructors & `super` Method
 - [ ] Naming Conventions & Anonymous Objects
 
