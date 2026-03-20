@@ -21,7 +21,7 @@ This repository documents my structured journey through Java programming.
 - [x] Strings (Immutable vs Mutable, StringBuffer, StringBuilder)
 - [x] Static Keyword (Variables, Methods, Blocks)
 - [x] Encapsulation, Getters, Setters & `this` Keyword
-- [ ] Constructors & `super` Method
+- [x] Constructors & `super` Method
 - [ ] Naming Conventions & Anonymous Objects
 
 ### 4: Advanced OOP Concepts
