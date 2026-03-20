@@ -22,7 +22,7 @@ This repository documents my structured journey through Java programming.
 - [x] Static Keyword (Variables, Methods, Blocks)
 - [x] Encapsulation, Getters, Setters & `this` Keyword
 - [x] Constructors & `super` Method
-- [ ] Naming Conventions & Anonymous Objects
+- [x] Naming Conventions & Anonymous Objects
 
 ### 4: Advanced OOP Concepts
 - [ ] Inheritance (Single & Multi-level)
