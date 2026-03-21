@@ -25,7 +25,7 @@ This repository documents my structured journey through Java programming.
 - [x] Naming Conventions & Anonymous Objects
 
 ### 4: Advanced OOP Concepts
-- [ ] Inheritance (Single & Multi-level)
+- [x] Inheritance (Single & Multi-level)
 - [ ] Method Overriding & Dynamic Method Dispatch (Polymorphism)
 - [ ] Packages & Access Modifiers (Public, Private, Protected, Default)
 - [ ] Final Keyword & Object Class (toString, equals, hashcode)
