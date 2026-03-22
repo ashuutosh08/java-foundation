@@ -26,8 +26,8 @@ This repository documents my structured journey through Java programming.
 
 ### 4: Advanced OOP Concepts
 - [x] Inheritance (Single & Multi-level)
-- [ ] Method Overriding & Dynamic Method Dispatch (Polymorphism)
-- [ ] Packages & Access Modifiers (Public, Private, Protected, Default)
+- [x] Method Overriding & Dynamic Method Dispatch (Polymorphism)
+- [x] Packages & Access Modifiers (Public, Private, Protected, Default)
 - [ ] Final Keyword & Object Class (toString, equals, hashcode)
 - [ ] Upcasting & Down casting
 - [ ] Abstract Classes & Inner Classes (Anonymous Inner Class)
