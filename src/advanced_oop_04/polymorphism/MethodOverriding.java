@@ -1,4 +1,4 @@
-package advanced_oop_04;
+package advanced_oop_04.polymorphism;
 
 /*  Overriding --- same(method name , parameters inside method) but in subclass
     Dynamic Method Dispatch --- runtime decision of "which add() to call"
