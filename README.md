@@ -28,7 +28,7 @@ This repository documents my structured journey through Java programming.
 - [x] Inheritance (Single & Multi-level)
 - [x] Method Overriding & Dynamic Method Dispatch (Polymorphism)
 - [x] Packages & Access Modifiers (Public, Private, Protected, Default)
-- [ ] Final Keyword & Object Class (toString, equals, hashcode)
+- [x] Final Keyword & Object Class (toString, equals, hashcode)
 - [ ] Upcasting & Down casting
 - [ ] Abstract Classes & Inner Classes (Anonymous Inner Class)
 - [ ] Interfaces (Normal, SAM/Functional, Marker) & Annotations
