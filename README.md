@@ -29,7 +29,7 @@ This repository documents my structured journey through Java programming.
 - [x] Method Overriding & Dynamic Method Dispatch (Polymorphism)
 - [x] Packages & Access Modifiers (Public, Private, Protected, Default)
 - [x] Final Keyword & Object Class (toString, equals, hashcode)
-- [ ] Upcasting & Down casting
+- [x] Upcasting & Down casting
 - [ ] Abstract Classes & Inner Classes (Anonymous Inner Class)
 - [ ] Interfaces (Normal, SAM/Functional, Marker) & Annotations
 - [ ] Lambda Expressions
