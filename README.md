@@ -30,7 +30,7 @@ This repository documents my structured journey through Java programming.
 - [x] Packages & Access Modifiers (Public, Private, Protected, Default)
 - [x] Final Keyword & Object Class (toString, equals, hashcode)
 - [x] Upcasting & Down casting
-- [ ] Abstract Classes & Inner Classes (Anonymous Inner Class)
+- [x] Abstract Classes & Inner Classes (Anonymous Inner Class)
 - [ ] Interfaces (Normal, SAM/Functional, Marker) & Annotations
 - [ ] Lambda Expressions
 
