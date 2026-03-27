@@ -31,7 +31,7 @@ This repository documents my structured journey through Java programming.
 - [x] Final Keyword & Object Class (toString, equals, hashcode)
 - [x] Upcasting & Down casting
 - [x] Abstract Classes & Inner Classes (Anonymous Inner Class)
-- [ ] Interfaces (Normal, SAM/Functional, Marker) & Annotations
+- [x] Interfaces (Normal, SAM/Functional, Marker) & Annotations
 - [ ] Lambda Expressions
 
 ### 5: Production-Ready Java & Collections
