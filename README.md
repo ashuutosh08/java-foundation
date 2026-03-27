@@ -32,7 +32,7 @@ This repository documents my structured journey through Java programming.
 - [x] Upcasting & Down casting
 - [x] Abstract Classes & Inner Classes (Anonymous Inner Class)
 - [x] Interfaces (Normal, SAM/Functional, Marker) & Annotations
-- [ ] Lambda Expressions
+- [x] Lambda Expressions
 
 ### 5: Production-Ready Java & Collections
 - [ ] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
