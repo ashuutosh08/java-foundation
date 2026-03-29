@@ -35,7 +35,7 @@ This repository documents my structured journey through Java programming.
 - [x] Lambda Expressions
 
 ### 5: Production-Ready Java & Collections
-- [ ] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
+- [x] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
 - [ ] Taking User Input (Scanner & BufferedReader)
 - [ ] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
 - [ ] Collection API (List, ArrayList, Set, HashSet, TreeSet, Map, HashMap)
