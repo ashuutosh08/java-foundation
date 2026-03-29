@@ -1,0 +1,21 @@
+Object
+│
+└── Throwable
+│
+├── Error -- cannot be handled
+│   ├── OutOfMemoryError
+│   └── StackOverflowError
+│
+└── Exception -- can be handled
+    │
+    ├── Checked Exceptions -- compulsory to handle
+    │   ├── IOException
+    │   │   ├── FileNotFoundException
+    │   │   └── EOFException
+    │   └── SQLException
+    │
+    └── RuntimeException (Unchecked) -- optional to handle
+        ├── NullPointerException
+        ├── ArithmeticException
+        ├── IndexOutOfBoundsException
+        └── IllegalArgumentException
