@@ -37,7 +37,7 @@ This repository documents my structured journey through Java programming.
 ### 5: Production-Ready Java & Collections
 - [x] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
 - [x] Taking User Input (Scanner & BufferedReader)
-- [ ] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
+- [x] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
 - [ ] Collection API (List, ArrayList, Set, HashSet, TreeSet, Map, HashMap)
 - [ ] Sorting Elements (Comparable vs Comparator)
 - [ ] Stream API (Map, Filter, Reduce, ForEach)
