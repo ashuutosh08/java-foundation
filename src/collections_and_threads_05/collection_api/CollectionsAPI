@@ -1,0 +1,38 @@
+Collections API - These are Ready-made data structures + algorithms to store and manipulate the data.
+                - it provides flexibility
+
+Why Collections API - without collections we use [int a[] = new int[5]; ] traditional arrays
+                    - problem was - fixed size
+                                  - no built in methods (searching, sorting)
+                                  - can store only one type data (primitive array)
+                                  - hard to manage dynamic data
+
+
+
+
+
+                    JAVA COLLECTIONS FRAMEWORK
+
+                    Iterable(Interface)
+                    │
+                    ├── Collection (Interface)
+                    │   ├── List-
+                    │   │   ├── ArrayList-
+                    │   │   ├── LinkedList
+                    │   │
+                    │   │
+                    │   ├── Set-
+                    │   │   ├── HashSet-
+                    │   │   ├── LinkedHashSet
+                    │   │   └── TreeSet-
+                    │   │
+                    │   └── Queue
+                    │       ├── LinkedList
+                    │       └── PriorityQueue
+
+
+                    └── Map-(Interface)
+                        ├── HashMap-
+                        ├── LinkedHashMap
+                        ├── TreeMap-
+                        └── Hashtable

@@ -38,8 +38,8 @@ This repository documents my structured journey through Java programming.
 - [x] Exception Handling (Try, Catch, Finally, Throw, Throws, Custom Exceptions)
 - [x] Taking User Input (Scanner & BufferedReader)
 - [x] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
-- [ ] Collection API (List, ArrayList, Set, HashSet, TreeSet, Map, HashMap)
-- [ ] Sorting Elements (Comparable vs Comparator)
+- [x] Collection API (List, ArrayList, Set, HashSet, TreeSet, Map, HashMap)
+- [x] Sorting Elements (Comparable vs Comparator)
 - [ ] Stream API (Map, Filter, Reduce, ForEach)
 
 ---

@@ -1,0 +1,16 @@
+
+
+
+
+        Thread state - the representation of complete lifecycle of a thread.
+                     - threads can exists in six distinct states
+                     -NEW - thread created but not yet started
+                     -RUNNABLE - thread is ready to run and waiting for CPU scheduler
+                     -RUNNING - thread is actually executing code on CPU
+                     -BLOCKED - thread is waiting to enter in synchronized block/method
+                     -WAITING - thread is waiting indefinitely until another threads signals it
+                     -TIMED_WAITING - thread is waiting for limited time (sleep(ms), join(ms), wait(ms))
+                     -TERMINATED - thread is finished execution
+
+       flow  - NEW (start())---> RUNNABLE (CPU scheduler picks)---> RUNNING (finished execution) ---> TERMINATED
+                                                                  (BLOCKED,WAITING,TIMED_WAITING)- happens
