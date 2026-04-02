@@ -40,7 +40,7 @@ This repository documents my structured journey through Java programming.
 - [x] Multithreading (Runnable, Thread Priority, Sleep, Race Conditions, Synchronized)
 - [x] Collection API (List, ArrayList, Set, HashSet, TreeSet, Map, HashMap)
 - [x] Sorting Elements (Comparable vs Comparator)
-- [ ] Stream API (Map, Filter, Reduce, ForEach)
+- [x] Stream API (Map, Filter, Reduce, ForEach)
 
 ---
 
